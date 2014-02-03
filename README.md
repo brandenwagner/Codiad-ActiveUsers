@@ -1,4 +1,4 @@
-# Codiad Active User Plugin
+# Codiad Active Users Plugin
 
 This is plugin generates a list of what users currently have files open.
 
