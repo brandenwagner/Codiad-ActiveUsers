@@ -1,0 +1,13 @@
+[{
+    "author": "brandenwagner",
+    "version": "0.1",
+    "name": "ActiveUsers",
+    "url": "https://github.com/Codiad/Codiad-Plugin-ActiveUsers",
+    "rightbar": [
+        {
+            "action": "codiad.active_users.open();",
+            "icon": "icon-info-circled",
+            "title": "Active Users"
+        }
+    ]
+}]
